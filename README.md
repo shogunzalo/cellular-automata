@@ -1,5 +1,5 @@
 # cellular-automata
-Node cellular automata
+Javascript / Node cellular automata
 
 Print cellular automata rules on terminal 
 
